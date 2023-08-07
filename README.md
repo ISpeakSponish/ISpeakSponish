@@ -4,8 +4,6 @@ simple as
 
 You can find me here:
 
-Mastadon:  https://mastodon.social/@ISpeakSponish
-
 Lemmy:     https://lemmy.blahaj.zone/u/ISpeakSponish
 
 
