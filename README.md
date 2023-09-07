@@ -4,7 +4,8 @@ simple as
 
 You can find me here:
 
-Lemmy:     https://lemmy.blahaj.zone/u/ISpeakSponish
+1. Lemmy:     https://lemmy.blahaj.zone/u/ISpeakSponish
+2. Mastodon:  https://mastodon.social/@ISpeakSponish
 
 
 I'm just an amateur programmer, so feel free to make fun of me lol.
